@@ -17,7 +17,8 @@ body {
 	width: 100%;
 	height:100%;
 	font-family: 'Open Sans', sans-serif;
-	background:  #b3e6ff;
+	background: url("css/piz.png") no-repeat centerfixed;
+	background-size: cover;
 	color: #ac00e6;
 	font-size: 18px;
 	text-align:center;
@@ -44,8 +45,7 @@ body {
 input { 
 	width: 100%; 
 	margin-bottom: 10px; 
-	background:  url("css/piz.png") no-repeat center fixed;
-	background-size: cover;
+	background: rgba(0,0,0,0.3);
 	border: none;
 	outline: none;
 	padding: 10px;
