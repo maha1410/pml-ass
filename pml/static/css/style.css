@@ -13,6 +13,13 @@
 
 html { width: 100%; height:100%; overflow:hidden; }
 
+<style>
+       body
+	   {
+	   background-image:url({{url_for'static',filename='css/piz.png}})
+	   }
+   </style>
+
 body { 
 	background-image: url("css/piz.png") no-repeat centerfixed;
 	background-size: cover;
