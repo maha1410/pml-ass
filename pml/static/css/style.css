@@ -14,6 +14,11 @@ body {
   padding: 0;
 }
 
+body{
+  background-image: url("C:\Users\Mahalakshmi\Desktop\pml\templates\piz.png");
+  background-color: #cccccc;	
+}
+
 body {
   font-family: sans-serif;
 }
