@@ -14,11 +14,6 @@ body {
   padding: 0;
 }
 
-body{
-  background-image: url("C:\Users\Mahalakshmi\Desktop\pml\templates\piz.png");
-  background-color: #cccccc;	
-}
-
 body {
   font-family: sans-serif;
 }
@@ -40,15 +35,15 @@ button {
 }
 
 form {
-  border: 1px solid #444;
+  border: 1px solid DodgerBlue;
   max-width: 100%;
   padding: 20px;
   width: 400px;
 }
 
 button {
-  background: transparent;
-  border: 1px solid #444;
+  background:transparent;
+  border: 1px solid Violet;
   border-radius: 4px;
   cursor: pointer;
   margin: 0;
